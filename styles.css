@@ -1,0 +1,131 @@
+body {
+color: #40415E;
+  background-color: #E4F9F5;
+  text-align: center;
+    font-family: 'Merriweather',serif;
+    margin:0;
+      font-size: 1.725rem;
+
+  padding-top: 10px;
+}
+
+
+h1 {
+  font-size: 4.625rem;
+  color: #66BFBF;
+  margin:50px auto 0 auto;
+
+  font-family: 'Sacramento', cursive;
+}
+.intro{width:25%;
+margin: auto;}
+
+
+
+h2 {
+  font-size: 1.625rem;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+.middle-container{margin:100px 0;}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.a {
+  height: 5cm;
+  width: 5cm;
+  position: relative;
+  left: 300px;
+  top: 100px;
+}
+
+.b {
+  position: absolute;
+  height: 7cm;
+  width: 5cm;
+  left: 200px;
+  bottom: 50px;
+}
+
+.c {
+  border-radius: 50%;
+  padding-top: 20px;
+}
+
+.d {
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+p{line-height: 2;}
+
+.e {
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-row{width:50%;
+margin:100px auto 100px auto;
+text-align: left;
+}
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  height: 0;
+  border-width: 10px;
+  width: 12%;
+  border-color: grey;
+  border-spacing: inherit;
+}
+.bottom-container{background-color: #66BFBF;
+padding: 50px 0 20px;}
+a{color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+a:hover{color:#EAF6F6;}
+.copy{color:#EAF6F6;
+      padding:20px 0;
+    font-size: 0.75rem;}
+
+span {
+  text-decoration: underline;
+}
